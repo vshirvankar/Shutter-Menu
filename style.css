@@ -39,7 +39,7 @@
   top: 0;
   left: 0;
   background-color: rgba(184, 36, 36, 0.4);
-  transition: 0.5s ease;
+  transition: 1s ease-in-out;
 }
 
 .menu ul li:hover::before {
@@ -54,7 +54,7 @@
   top: 0;
   right: 0;
   background-color: #0006;
-  transition: 0.5s ease;
+  transition: 1s ease-in-out;
 }
 
 .menu ul li:hover::after{
